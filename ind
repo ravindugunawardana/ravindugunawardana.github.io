@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - Smart PDF Scanner</title>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Effective Date: 2026</p>
+
+<p>Smart PDF Scanner ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle information when you use our mobile application.</p>
+
+<h2>1. Information We Do Not Collect</h2>
+
+<p>We do not collect, store, or share personal information such as names, email addresses, contacts, or documents.</p>
+
+<h2>2. Camera Permission</h2>
+
+<p>The app requires access to your device camera solely for scanning documents. Images captured are processed locally on your device and are not uploaded to our servers.</p>
+
+<h2>3. Gallery Access</h2>
+
+<p>When you select images from your device gallery, the app only accesses the selected images to convert them into PDF files. We do not access your entire photo library.</p>
+
+<h2>4. Document Processing</h2>
+
+<p>PDF generation, image compression, and document processing occur locally on your device using secure browser and device capabilities.</p>
+
+<h2>5. AI Features</h2>
+
+<p>If you use AI-powered features such as text recognition or translation, selected content may be securely sent to Google Gemini AI services for processing. We do not store this content on our servers.</p>
+
+<h2>6. Local Storage</h2>
+
+<p>The app may store settings and premium status locally on your device using secure local storage. This data does not leave your device.</p>
+
+<h2>7. Internet Access</h2>
+
+<p>The app requires internet access for AI processing and feature updates. No personal data is collected or sold.</p>
+
+<h2>8. Data Security</h2>
+
+<p>We implement reasonable security practices. Since most processing occurs locally, your data remains under your control.</p>
+
+<h2>9. Children's Privacy</h2>
+
+<p>This app does not knowingly collect data from children under 13.</p>
+
+<h2>10. Changes to This Policy</h2>
+
+<p>We may update this Privacy Policy periodically. Updates will be reflected on this page.</p>
+
+<h2>11. Contact</h2>
+
+<p>If you have questions about this Privacy Policy, please contact us at: your-email@example.com</p>
+
+</body>
+</html>
